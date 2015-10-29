@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Studio_Projects\JSON_Demo\app\libs\httpcore-4.4.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e876a79d561e5c6207b78d347e198c8c4531a5e5">
+        <dex dex="D:\Studio_Projects\JSON_Demo\app\build\intermediates\pre-dexed\debug\httpcore-4.4.3-85e0e6c752b397c508981d65e2cc5277fcc1bdc5.jar" />
+    </item>
+    <item
+        jar="D:\Studio_Projects\JSON_Demo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="D:\Studio_Projects\JSON_Demo\app\build\intermediates\pre-dexed\debug\classes-685fc2b0156de98eb91c4ef3ca99762400b0dce4.jar" />
+    </item>
+    <item
+        jar="D:\Studio_Projects\JSON_Demo\app\libs\httpclient-4.5.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7e3cecc566df91338c6c67883b89ddd05a17db43">
+        <dex dex="D:\Studio_Projects\JSON_Demo\app\build\intermediates\pre-dexed\debug\httpclient-4.5.1-602c597fbda8cc32316ad6412c31205c9c2e8272.jar" />
+    </item>
+    <item
+        jar="D:\Studio_Projects\JSON_Demo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="D:\Studio_Projects\JSON_Demo\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-d7e3f5c42ac91576bf7f6f6fe451733b5d049c7a.jar" />
+    </item>
+    <item
+        jar="D:\SDK\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="D:\Studio_Projects\JSON_Demo\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.0-edac7719713beec49d9aa14e3050935de4afb86b.jar" />
+    </item>
+
+</items>
